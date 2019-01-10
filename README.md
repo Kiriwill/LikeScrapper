@@ -1,2 +1,2 @@
 # LikeScrapper
-LIkes scrapper for facebook using python and selenium
+Likes scrapper for facebook pages using python, selenium and SQLite. Usefull for data analisys.
